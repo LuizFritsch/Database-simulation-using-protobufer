@@ -60,7 +60,7 @@ tcp.connect(dest)
 def menu():
   print ('\n\n\n\n\n\n\n\n\n\n\nto exit, just type exit')
   print ('\nThis is version 1.0\n')
-  print ('\nJust insert operation is workin and not the way it should... \n')
+  print ('\nOnly insert operation is workin and not the way it should... \n')
   print ('\n1.insert\n2.delete\n3.select\n')
   msg = raw_input()
   return msg
